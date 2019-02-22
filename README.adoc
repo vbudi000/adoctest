@@ -40,3 +40,5 @@ The structure of the offering repo is:
    
    
 ----
+
+The automation should `watch` the offerings folder. Any changes would trigger the offering.md file to be parsed and re-create the course path. 
