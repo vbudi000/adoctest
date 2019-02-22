@@ -29,7 +29,7 @@ Content format for the read-only repo for the team can be divided into:
 
 The structure of the offering repo is:
 
---
+----
 +--+-- offerings --+-- offering1.md
    |               +-- offering2.md
    +-- course1 ----+-- courseOverview.pptx
@@ -39,4 +39,4 @@ The structure of the offering repo is:
    +-- course2 ----+-- 
    
    
---
+----
