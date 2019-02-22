@@ -1,0 +1,10 @@
+:toc:
+= This is the Main Title
+
+== Sub heading 1
+
+This is the content i think
+
+== Sub heading 2
+
+Another content
