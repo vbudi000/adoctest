@@ -7,7 +7,7 @@ This repo is my test for structuring the GIT repo that we have.
 
 Proposed structure is that we maintain 2 levels of repositories. 
 
-image::Screen Shot 2019-02-22 at 2.47.12 PM.png
+image::Screen Shot 2019-02-22 at 2.47.12 PM.png[]
 
 - The private one that we build our contents and collaterals. This can be one or many, however the split is based on how much overlap of the content existed. I envision one of them is an evolution of our current `content` repository. However, other repo such as the Ground School or IBM Innovate should apply too.
 
